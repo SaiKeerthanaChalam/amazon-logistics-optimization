@@ -1,4 +1,4 @@
-# amazon-logistics-optimization
+# Amazon-logistics-optimization
 
 ## Project Overview
 
