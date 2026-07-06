@@ -1,4 +1,4 @@
-# Amazon Logistics Optimization using SQL
+# amazon-logistics-optimization
 
 ## Project Overview
 
